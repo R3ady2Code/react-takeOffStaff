@@ -1,4 +1,4 @@
-Версия Node.js v16.13.1
+Node.js v16.13.1
 
 # Getting Started
 
